@@ -14,7 +14,7 @@
   "author": "Tobias Emrich",
   "license": "ISC",
   "devDependencies": {
-    "expect": "^23.1.0",
+    "expect": "^25.2.7",
     "mocha": "^5.2.0",
     "nodemon": "^1.17.5"
   },
